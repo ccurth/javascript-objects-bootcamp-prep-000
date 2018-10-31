@@ -3,5 +3,7 @@ var playlist = {
   kanyewest: 'gold digger',
 }
 
-function updatePlaylist(playlist,artistName,SongTitle)
-playlist[artistName]
+function updatePlaylist(playlist,artistName,SongTitle) {
+playlist[artistName] = SongTitle
+return playlist;
+}
