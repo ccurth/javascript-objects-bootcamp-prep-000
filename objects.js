@@ -3,3 +3,4 @@ var playlist = {
   kanyewest: 'gold digger',
 }
 
+function updatePlaylist(playlist,artistName,SongTitle)
