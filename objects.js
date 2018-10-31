@@ -1,3 +1,4 @@
 var playlist = {
-  thestrokes: 'last nite' 
+  thestrokes: 'last nite',
+  kanyewest: 'gold digger',
 }
